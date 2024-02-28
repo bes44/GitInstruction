@@ -94,9 +94,10 @@ git help
 ```
 Вызов детальной справки по командам
 ```
-git <команда> --h
+git <команда> --help
 ```
-
+Пример вывода команды *git commit --help*
+![alt text](image.png)
 
 ## На будущее
 git clone
