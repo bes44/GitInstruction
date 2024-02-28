@@ -99,6 +99,10 @@ git <команда> --help
 Пример вывода команды *git commit --help*
 ![alt text](image.png)
 
+Для консольного вывода
+```
+git add -h
+```
 ## На будущее
 git clone
 git status
