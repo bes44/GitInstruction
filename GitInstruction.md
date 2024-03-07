@@ -140,18 +140,18 @@ git merge <имя ветки с которой сливаемся>
 
 
 ## На будущее
-```
+```bash
 git clone
 ```
-```
+```bash
 git remote
 ```
-```
+```bash
 git fetch
 ```
-```
+```bash
 git push
 ```
-```
+```bash
 git pull
 ```
