@@ -138,5 +138,22 @@ git switch -c createBranch
 Находясь в ветке master выполняем команду 
 git merge <имя ветки с которой сливаемся>
 
-
+## На будущее
+git-clone - Clone a repository into a new directory
+```bash
+git clone
+```
+Для того, чтобы просмотреть список настроенных удалённых репозиториев, вы можете запустить команду git remote
+```bash
+git remote
+```
+```bash
+git fetch
+```
+```bash
+git push
+```
+```bash
+git pull
+```
 
