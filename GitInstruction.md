@@ -139,7 +139,7 @@ git switch -c createBranch
 git merge <имя ветки с которой сливаемся>
 
 
-## На будущее
+## На будущеttttttttе
 git-clone - Clone a repository into a new directory
 ```bash
 git clone
