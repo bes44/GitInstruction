@@ -117,7 +117,7 @@ git add -h
 ```
 git branch
 ```
-Создание новой веткииииии
+Создание новой ветки
 ```
 git branch <имя ветки>
 ```
@@ -134,10 +134,10 @@ git switch -c createBranch
 Находясь в ветке master выполняем команду 
 git merge <имя ветки с которой сливаемся>
 
-## На будущее
 
+
+## На будущее
 git clone
-git merge
 git remote
 git fetch
 git push
