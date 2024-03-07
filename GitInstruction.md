@@ -129,6 +129,11 @@ git checkout -b createBranch
 git switch -c createBranch
 ```
 
+## 11. Слияние веток и разбор конфликтов
+
+Находясь в ветке master выполняем команду 
+git merge <имя ветки с которой сливаемся>
+
 ## На будущее
 
 git clone
