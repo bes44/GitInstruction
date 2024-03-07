@@ -139,11 +139,19 @@ git switch -c createBranch
 git merge <имя ветки с которой сливаемся>
 
 
-
 ## На будущее
+```
 git clone
+```
+```
 git remote
+```
+```
 git fetch
+```
+```
 git push
+```
+```
 git pull
-
+```
