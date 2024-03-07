@@ -148,6 +148,7 @@ git clone
 ```bash
 git remote
 ```
+git-fetch - Download objects and refs from another repository
 ```bash
 git fetch
 ```
