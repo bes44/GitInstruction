@@ -104,10 +104,8 @@ git <команда> --help
 git add -h
 ```
 ## На будущее
+
 git clone
-git status
-git branch
-git checkout
 git merge
 git remote
 git fetch
